@@ -1,4 +1,4 @@
-### Acerca de mí
+# Acerca de mí
 
 La curiosidad y la creatividad son mis valores principales y representan para mí una forma de vida. Esto me ha impulsado a desarrollar un pensamiento crítico y estructurado y a construir autonomía y pensamiento crítico y autocrítico en los espacios en los que 
 participo.
