@@ -19,9 +19,9 @@ API para procesar documentos de tipo Markdown. Los otros proyectos también me p
 Utilizo mi formación en filosofía, en especial la comprensión del lenguaje y la lógica, para plantear los problemas desde diferentes perspectivas y proponer soluciones que no atañen a un solo aspecto. Estas habilidades las he aplicado en áreas diversas, como la 
 educación, la escritura, la investigación y la música.
 
-## Experiencia Profesional
+## Búsqueda Profesional
 
-Busco un espacio de trabajo que valore y fomente la creatividad, el diálogo y las actitudes propositivas desde la honestidad, tanto en el trabajo técnico como en el trabajo colaborativo. He aplicado mis habilidades en diversas áreas, y estoy abierto(a) a contribuir en entornos que promuevan el aprendizaje continuo y las metodologías ágiles.
+Busco un espacio de trabajo que valore y fomente la creatividad, el diálogo y las actitudes propositivas desde la honestidad, tanto en el trabajo técnico como en el trabajo colaborativo. He aplicado mis habilidades en diversas áreas, y estoy abierta a contribuir en entornos que promuevan el aprendizaje continuo y las metodologías ágiles.
 
 ## Habilidades Destacadas
 
