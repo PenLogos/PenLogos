@@ -10,8 +10,10 @@ habilidades técnicas y para la vida, entre las que se cuentan la capacidad para
 biblioetcas y recursos fundamentales. 
 
 Por ejemplo, en los proyectos de Social Network y Markdown Links, se trabajó con buen nivel de profundidad la relación general entre el frontend y el backend, las funciones asíncronas, el almacenamiento y procesamiento de 
-datos, los fundamentos de node, configuración báscica de un repositorio, publicaciones, deploy, tags, entre otras cosas. En ambos casos se profundizó por medio de una metodología por proyectos, en donde tenía que crear una red social fictia usando firestore y una 
-API para procesar documentos de tipo Markdown. Los otros proyectos también me permitieron acceder a los peldaños de la programación frontend, al diseñar interfaces de usuario usando html y css, practicando la creación dinámica de nodos, la organización y filtrado de data, los manejadores de eventos y la manipulación del DOM, así como el aprendizaje de una amplia gama de métodos de Javascript, lenguaje en donde se hizo más énfasis durante la formación.
+datos, los fundamentos de node, configuración báscica de un repositorio, publicaciones, deploy, tags, entre otras cosas. En ambos casos se profundizó por medio de una metodología por proyectos, en donde tuve que crear una red social fictia usando firestore y una 
+API para procesar documentos de tipo Markdown. 
+
+Los otros proyectos también me permitieron acceder a los peldaños de la programación frontend, al diseñar interfaces de usuario usando html y css, practicando la creación dinámica de nodos, la organización y filtrado de data, los manejadores de eventos y la manipulación del DOM, así como el aprendizaje de una amplia gama de métodos de Javascript, lenguaje en donde se hizo más énfasis durante la formación.
 
 
 ## Formación Académica Adicional
