@@ -3,7 +3,7 @@
 La curiosidad y la creatividad son mis valores principales y representan para mí una forma de vida. Esto me ha impulsado a desarrollar un pensamiento crítico y estructurado y a construir autonomía y pensamiento crítico y autocrítico en los espacios en los que 
 participo.
 
-## Desarrollo Web
+## Formación en Desarrollo Web
 
 Formación en desarrollo web con énfasis en front-end en Laboratoria, con bases en JavaScript, HTML, CSS, y Java. Poseo conocimientos de programación orientada a objetos y soluciones de IU con énfasis en necesidades de usuario. En laboratoria desarrollé varias 
 habilidades técnicas y para la vida, entre las que se cuentan la capacidad para buscar información de manera ágil, rápida y eficiente, conceptualización de objetivos y retos concretos en un proyecto de desarrollo web, autoaprendizaje, conocimiento sobre 
