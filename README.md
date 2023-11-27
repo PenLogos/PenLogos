@@ -13,7 +13,8 @@ Por ejemplo, en los proyectos de Social Network y Markdown Links, se trabajó co
 datos, los fundamentos de node, configuración báscica de un repositorio, publicaciones, deploy, tags, entre otras cosas. En ambos casos se profundizó por medio de una metodología por proyectos, en donde tuve que crear una red social fictia usando firestore y una 
 API para procesar documentos de tipo Markdown. 
 
-Los otros proyectos también me permitieron acceder a los peldaños de la programación frontend, al diseñar interfaces de usuario usando html y css, practicando la creación dinámica de nodos, la organización y filtrado de data, los manejadores de eventos y la manipulación del DOM, así como el aprendizaje de una amplia gama de métodos de Javascript, lenguaje en donde se hizo más énfasis durante la formación.
+Los otros proyectos también me permitieron acceder a los peldaños de la programación frontend, al diseñar interfaces de usuario usando html y css, practicando la creación dinámica de nodos, la organización y filtrado de data, los manejadores de eventos y la 
+manipulación del DOM, así como el aprendizaje de una amplia gama de métodos de Javascript, lenguaje en donde se hizo más énfasis durante la formación.
 
 
 ## Formación Académica Adicional
